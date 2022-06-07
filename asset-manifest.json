@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/authentication/static/css/main.8791840d.chunk.css",
+    "main.css": "/authentication/static/css/main.3a4b9115.chunk.css",
     "main.js": "/authentication/static/js/main.972e7ba7.chunk.js",
     "main.js.map": "/authentication/static/js/main.972e7ba7.chunk.js.map",
     "runtime-main.js": "/authentication/static/js/runtime-main.24b13253.js",
@@ -8,13 +8,13 @@
     "static/js/2.abb958d7.chunk.js": "/authentication/static/js/2.abb958d7.chunk.js",
     "static/js/2.abb958d7.chunk.js.map": "/authentication/static/js/2.abb958d7.chunk.js.map",
     "index.html": "/authentication/index.html",
-    "static/css/main.8791840d.chunk.css.map": "/authentication/static/css/main.8791840d.chunk.css.map",
+    "static/css/main.3a4b9115.chunk.css.map": "/authentication/static/css/main.3a4b9115.chunk.css.map",
     "static/js/2.abb958d7.chunk.js.LICENSE.txt": "/authentication/static/js/2.abb958d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24b13253.js",
     "static/js/2.abb958d7.chunk.js",
-    "static/css/main.8791840d.chunk.css",
+    "static/css/main.3a4b9115.chunk.css",
     "static/js/main.972e7ba7.chunk.js"
   ]
 }
