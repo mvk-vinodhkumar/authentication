@@ -6,3 +6,9 @@
 .starting h1 {
   font-size: 5rem;
 }
+
+@media (max-width: 768px) {
+  .starting h1 {
+    font-size: 2rem;
+  }
+}
